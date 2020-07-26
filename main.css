@@ -20,4 +20,13 @@ border-top-color: #ffa500;
 #yellow {/* this selects any elements with the yellow id */
 border-top-color: #ff0;
 }
-#green
+#green {/* this selects any elements with the green id */
+border-top-color: #00bc3f;
+}
+#blue {/* this selects any elements with the blue id */
+border-top-color: #8a2be2;
+}
+#indigo {/* this selects any elements with the indigo id */
+}
+#violet {/* this selects any elements with the violet id */
+}
