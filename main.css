@@ -11,5 +11,6 @@ border-top-color: #f00;
 div:after {
   position absolute
   content: '';
+  width: 100px;
   
 }
