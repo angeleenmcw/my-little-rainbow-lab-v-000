@@ -16,6 +16,6 @@ div:after {
   top: 100px;
   left: 50px;
   border-radius: 50%;
-  box-shadow: 
+  box-shadow: 0 0 0 10px #f00, 0 0 0 10px
   
 }
