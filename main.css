@@ -10,6 +10,6 @@ border-top-color: #f00;
 }
 div:after {
   position absolute
-  content: "";
+  content: '';
   
 }
