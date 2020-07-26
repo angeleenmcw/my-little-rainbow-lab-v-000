@@ -15,6 +15,6 @@ div:after {
   height: 100px;
   top: 100px;
   left: 50px;
-  border rad
+  border-radius: 50%;
   
 }
