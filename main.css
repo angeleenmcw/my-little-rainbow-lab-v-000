@@ -1,4 +1,6 @@
 div {
+  border: 20px solid #000; /* this is short hand for setting
+                            the border's width, its type, and color */
   display: inline-block; /* a way of positioning elements */
   min-width: 20em; /* the two min styles make the shape */
   min-height: 25em; /* of the divs oblong*/
@@ -7,15 +9,4 @@ div {
   border-right-color: transparent; /* the right side */
   border-bottom-color: transparent; /* and the bottom of the circle */
 border-top-color: #f00;
-}
-div:after {
-  position absolute
-  content: '';
-  width: 100px;
-  height: 100px;
-  top: 100px;
-  left: 50px;
-  border-radius: 50%;
-  box-shadow: 0 0 0 10px #f00, 0 0 0 10px, 
-  
 }
